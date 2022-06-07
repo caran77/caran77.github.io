@@ -1,0 +1,101 @@
+lat,lon,place,count
+26.0,-80.0,Miami,78796
+34.0,-118.0,Los Angeles,32768
+33.0,-97.0,Dallas,24875
+28.0,-81.0,Orlando,21650
+29.0,-81.0,Orlando,18499
+35.0,-81.0,Charlotte,15635
+36.0,-79.0,Raleigh,15277
+30.0,-95.0,Houston,15021
+33.0,-117.0,San Diego,13776
+36.0,-87.0,Nashville,13312
+30.0,-98.0,Austin,12672
+30.0,-91.0,Baton Rouge,11850
+45.0,-93.0,Minneapolis,11622
+30.0,-90.0,New Orleans,11347
+39.0,-121.0,Sacramento,11077
+32.0,-111.0,Tucson,8649
+45.0,-93.0,Saint Paul,7923
+30.0,-82.0,Jacksonville,7788
+26.0,-80.0,Hialeah,7307
+35.0,-119.0,Bakersfield,6873
+35.0,-85.0,Chattanooga,6719
+30.0,-96.0,Houston,6454
+34.0,-81.0,Columbia,6265
+39.0,-77.0,Washington,5850
+34.0,-117.0,Riverside,5624
+39.0,-95.0,Kansas City,5559
+34.0,-117.0,San Bernardino,5381
+46.0,-123.0,Portland,5198
+26.0,-80.0,Fort Lauderdale,5099
+33.0,-112.0,Phoenix,5018
+27.0,-82.0,Fort Myers,4844
+34.0,-118.0,Anaheim,4810
+34.0,-84.0,Atlanta,4758
+34.0,-118.0,Ontario,4750
+37.0,-120.0,Fresno,4712
+38.0,-77.0,Richmond,4695
+41.0,-74.0,Bronx,4585
+37.0,-122.0,San Jose,4531
+43.0,-78.0,Rochester,4344
+35.0,-82.0,Greenville,4337
+28.0,-83.0,Saint Petersburg,4242
+28.0,-82.0,Tampa,4236
+43.0,-86.0,Grand Rapids,4140
+40.0,-75.0,Philadelphia,4072
+40.0,-86.0,Indianapolis,3994
+26.0,-80.0,North Miami,3955
+32.0,-94.0,Shreveport,3838
+34.0,-118.0,Whittier,3678
+28.0,-81.0,Kissimmee,3607
+27.0,-83.0,Bradenton,3524
+41.0,-74.0,New York,3491
+34.0,-118.0,Corona,3440
+41.0,-112.0,Salt Lake City,3409
+34.0,-118.0,Long Beach,3400
+33.0,-97.0,Fort Worth,3384
+37.0,-76.0,Norfolk,3286
+36.0,-96.0,Tulsa,3286
+38.0,-122.0,Oakland,3268
+29.0,-82.0,Ocala,3098
+34.0,-112.0,Phoenix,3075
+41.0,-74.0,Brooklyn,3033
+37.0,-93.0,Springfield,3009
+27.0,-82.0,Sarasota,2920
+38.0,-121.0,Stockton,2895
+40.0,-76.0,Lancaster,2800
+38.0,-121.0,Sacramento,2713
+30.0,-87.0,Pensacola,2640
+43.0,-84.0,Flint,2606
+26.0,-80.0,Opa Locka,2602
+26.0,-80.0,North Miami Beach,2597
+38.0,-122.0,San Francisco,2583
+40.0,-84.0,Dayton,2533
+38.0,-121.0,Modesto,2489
+39.0,-77.0,Silver Spring,2452
+48.0,-122.0,Seattle,2355
+39.0,-77.0,Fairfax,2321
+40.0,-80.0,Pittsburgh,2317
+42.0,-83.0,Detroit,2294
+34.0,-118.0,Irvine,2217
+37.0,-76.0,Virginia Beach,2191
+27.0,-83.0,Sarasota,2158
+28.0,-83.0,Clearwater,2148
+34.0,-80.0,Florence,2128
+35.0,-82.0,Spartanburg,2097
+37.0,-76.0,Chesapeake,2070
+39.0,-77.0,Frederick,2069
+34.0,-118.0,Santa Ana,2065
+38.0,-122.0,Hayward,2042
+35.0,-90.0,Memphis,2040
+39.0,-77.0,Woodbridge,2038
+32.0,-95.0,Tyler,1994
+26.0,-80.0,Hollywood,1979
+34.0,-118.0,Pasadena,1977
+35.0,-92.0,Little Rock,1961
+34.0,-117.0,Fontana,1949
+34.0,-118.0,Baldwin Park,1926
+34.0,-79.0,Myrtle Beach,1906
+39.0,-122.0,Sacramento,1904
+43.0,-79.0,Buffalo,1882
+37.0,-120.0,Madera,1821
